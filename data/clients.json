@@ -1,0 +1,28 @@
+[
+  {
+    "slug": "ivan-petrov",
+    "name": "Иван Петров",
+    "title": "Frontend разработчик",
+    "company": "Студия Pixel",
+    "phone": "+31 6 12 34 56 78",
+    "email": "ivan@example.com",
+    "telegram": "ivan_petrov",
+    "instagram": "ivan.petrov",
+    "website": "https://ivan.dev",
+    "photo": null,
+    "accent": "#6366f1"
+  },
+  {
+    "slug": "anna-smirnova",
+    "name": "Анна Смирнова",
+    "title": "UX/UI Дизайнер",
+    "company": "Creative Bureau",
+    "phone": "+31 6 98 76 54 32",
+    "email": "anna@example.com",
+    "telegram": "anna_design",
+    "instagram": "anna.design",
+    "website": "",
+    "photo": null,
+    "accent": "#ec4899"
+  }
+]
