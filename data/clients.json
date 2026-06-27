@@ -59,5 +59,15 @@
     "phone": "+77777777777",
     "accent": "#ec4899",
     "photo": null
+  },
+  {
+    "slug": "roman",
+    "name": "Роман",
+    "title": "Инженер",
+    "company": "Алмаз-Антей",
+    "phone": "+79162923389",
+    "telegram": "Romcheckk",
+    "accent": "#f59e0b",
+    "photo": "/photos/roman.jpg"
   }
 ]
