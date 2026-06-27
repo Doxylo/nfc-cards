@@ -28,15 +28,12 @@
   {
     "slug": "barsuk",
     "name": "Барсук",
-    "title": "БОСС",
-    "company": "ООО\"Бнал\"",
+    "title": "Босс",
+    "company": "ОООбнал",
     "phone": "+77777777777",
-    "email": "imceobitch@ceo.com",
     "telegram": "DikiyBarsuk",
-    "instagram": "netutakogo",
-    "website": "https://nominalovnominalnominalovich",
-    "photo": "/photos/barsuk-badger-pinstripe-suit-looks-directly-viewer-generated-using-ai-image-showcases-wearing-stylish-tie-exuding-air-369658377.jpg.webp",
-    "accent": "#111827"
+    "accent": "#10b981",
+    "photo": "/photos/barsuk.webp"
   },
   {
     "slug": "dendrik",
