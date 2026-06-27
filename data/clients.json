@@ -40,5 +40,15 @@
     "name": "dendrik",
     "accent": "#6366f1",
     "photo": "/photos/dendrik.jpg"
+  },
+  {
+    "slug": "yuliya",
+    "name": "Юлия",
+    "title": "Админ",
+    "company": "Омаров",
+    "phone": "+77777777777",
+    "telegram": "julieersch",
+    "accent": "#ec4899",
+    "photo": "/photos/yuliya.jpg"
   }
 ]
