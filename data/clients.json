@@ -50,5 +50,14 @@
     "telegram": "julieersch",
     "accent": "#ec4899",
     "photo": "/photos/yuliya.jpg"
+  },
+  {
+    "slug": "svetlana",
+    "name": "Светлана",
+    "title": "МАСТЕР МАНИКЮРА",
+    "company": "Большая бронная",
+    "phone": "+77777777777",
+    "accent": "#ec4899",
+    "photo": null
   }
 ]
